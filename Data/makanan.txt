@@ -1,0 +1,39 @@
+Nasi Goreng Telor#28000
+Nasi Goreng Spesial#30000
+Nasi Goreng Seafood#32000
+Mie Goreng Biasa#25000
+Mie Goreng Spesial#30000
+Lele Goreng#12000
+Gurame Goreng#40000
+Gurame Bakar#40000
+Kakap Goreng#30000
+Kakap Bakar#30000
+Sate Ayam (isi 10)#25000
+Sate Kambing (isi 10)#30000
+Ayam Bakar#20000
+Ayam Goreng#20000
+Bebek Bakar#25000
+Bebek Goreng#25000
+kerang ajaib#1000000
+Kangkung Balacan#18000
+Ketoprak#21000
+Gado - Gado#17000
+Gudeg#25000
+Peda Goreng#15000
+Pepes Tahu#15000
+Tahu Sumedang (isi 10)#15000
+Empal Gentong#30000
+Soto#23000
+Bakso#25000
+Kerak Telor#25000
+Nasi Putih#6000
+Nasi Liwet#7500
+Tahu#2500
+Tempe#2500
+Sambal Terasi#5000
+Beras Rebus#1000
+Beras Bakar#3000
+Beras Goreng#5000
+Indomie Import dari Zimbabwe#10000000
+whiskas#1000000
+Sayurrrrr#5000
